@@ -1,6 +1,18 @@
 this is my first Git Comment
 
-some git comments I learnt today:
-1>git init
-2>git add
-3>git commit
+this is ok
+
+
+<html>
+<head>
+  <title>Github</title>
+</head>
+<body>
+<h1>
+Today Learnign is following
+</h1>
+<ul>
+<li>Git Init</li>
+</ul>
+</body>
+</html>
